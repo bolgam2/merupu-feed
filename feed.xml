@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Merupu Short News</title>
+    <link>https://news.merupulu.com</link>
+    <description>Latest Telugu short news from Merupu</description>
+    <language>te</language>
+
+    <item>
+      <title><![CDATA[కరోనా వ్యాక్సిన్ కొత్త వర్షన్ విడుదల]]></title>
+      <link>https://news.merupulu.com/api/news/1</link>
+      <description><![CDATA[హైదరాబాద్ లో కొత్త వ్యాక్సిన్ విడుదలైంది. ఇది మరింత ప్రభావవంతంగా ఉందని వైద్యులు పేర్కొన్నారు.]]></description>
+      <enclosure url="https://news.merupulu.com/images/vaccine.jpg" type="image/jpeg" />
+      <pubDate>Wed, 24 Jul 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[తెలంగాణలో వర్షాలు విస్తారంగా]]></title>
+      <link>https://news.merupulu.com/api/news/2</link>
+      <description><![CDATA[తెలంగాణలో భారీ వర్షాలు కురుస్తున్నాయి. ముంపు ప్రాంతాల ప్రజలు అప్రమత్తంగా ఉండాలని అధికారులు సూచించారు.]]></description>
+      <enclosure url="https://news.merupulu.com/images/rain.jpg" type="image/jpeg" />
+      <pubDate>Wed, 24 Jul 2025 08:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title><![CDATA[ఇంజినీరింగ్ కౌన్సిలింగ్ రెండో విడత నోటిఫికేషన్ విడుదల]]></title>
+      <link>https://news.merupulu.com/api/news/3</link>
+      <description><![CDATA[రెండో విడత ఇంజినీరింగ్ కౌన్సిలింగ్ ప్రక్రియకు సంబంధించి అధికారులు నోటిఫికేషన్ విడుదల చేశారు.]]></description>
+      <enclosure url="https://news.merupulu.com/images/counseling.jpg" type="image/jpeg" />
+      <pubDate>Tue, 23 Jul 2025 17:45:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
